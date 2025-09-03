@@ -84,7 +84,7 @@ For each, trained on {20%, 40%, 60%, 80%, 100%} data and plotted training-size v
 
 ## 🔗 Resources  
 
-- **Data & Code**: https://tinyurl.com/cs771-autumn24-mp-1-data  
+- **Data**: https://tinyurl.com/cs771-autumn24-mp-1-data  
 - **Course**: CS771 – Introduction to Machine Learning, IIT Kanpur  
 
 ---
